@@ -11,7 +11,7 @@ Clone este repositório em sua máquina local.
 
 Abra um terminal na pasta do projeto.
 
-Execute o comando node index.js.
+Execute o comando "node index.js".
 
 Siga as instruções apresentadas no terminal para inserir os números e a operação desejada.
 O resultado da operação será exibido, juntamente com a informação de paridade ou imparidade.
@@ -33,7 +33,7 @@ Clone this repository to your local machine.
 
 Open a terminal in the project folder.
 
-Run the command node index.js.
+Run the command "node index.js".
 
 Follow the instructions presented in the terminal to input the numbers and the desired operation.
 
