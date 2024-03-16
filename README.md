@@ -20,7 +20,8 @@ Execute o comando "node index.js".
 
 Siga as instruções apresentadas no terminal para inserir os números e a operação desejada.
 O resultado da operação será exibido, juntamente com a informação de paridade ou imparidade.
-Notas
+
+Notas:
 
 Este projeto foi criado com o propósito de aprendizado em JavaScript e pode conter imperfeições ou áreas para melhorias. Sinta-se à vontade para explorar, experimentar e contribuir para torná-lo melhor.
 
@@ -48,7 +49,8 @@ Follow the instructions presented in the terminal to input the numbers and the d
 
 The result of the operation will be displayed along with the information of evenness or oddness.
 
-Notes
+Notes:
+
 This project was created for the purpose of learning JavaScript and may contain imperfections or areas for improvement. Feel free to explore, experiment, and contribute to make it better.
 
 ---
