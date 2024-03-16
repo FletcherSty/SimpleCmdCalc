@@ -50,3 +50,5 @@ The result of the operation will be displayed along with the information of even
 
 Notes
 This project was created for the purpose of learning JavaScript and may contain imperfections or areas for improvement. Feel free to explore, experiment, and contribute to make it better.
+
+---
